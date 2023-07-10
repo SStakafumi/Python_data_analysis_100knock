@@ -1,2 +1,8 @@
-*.csv
 .DS_Store
+*.jpg
+*.xml
+*.dat
+*.avi
+*.csv
+*.xlsx
+*.json
